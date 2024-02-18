@@ -6,4 +6,5 @@ u need have node.js
 Instructions:
 
 npm install
+
 node ./index.js

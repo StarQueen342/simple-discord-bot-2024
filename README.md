@@ -11,4 +11,4 @@ node ./index.js
 
 Note: 
 
-You need have activated the scope applications.commands and create the config.json 
+You need have activated the scope applications.commands and edit the config.json 

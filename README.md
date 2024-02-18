@@ -8,3 +8,7 @@ Instructions:
 npm install
 
 node ./index.js
+
+Note: 
+
+You need have activated the scope applications.commands

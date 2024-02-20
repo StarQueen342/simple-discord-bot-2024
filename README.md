@@ -11,4 +11,4 @@ node ./index.js
 
 Note: 
 
-You need have activated the scope applications.commands and edit the config.json 
+You must run "deploy-commands.js" whenever you are going to create a new slash command. After that you must re-invite your bot to the server with the scope "application.commands"
